@@ -1,0 +1,2 @@
+# generator
+yield some number
